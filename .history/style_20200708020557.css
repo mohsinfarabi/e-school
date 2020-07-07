@@ -1,0 +1,28 @@
+body {
+    font-family: Poppins;
+}
+
+.top-part {
+    background-color: #F0FFF0;
+}
+
+.bg-light {
+    background-color: #F0FFF0;
+}
+
+.navbar img {
+    width: 198.07px;
+    height: 59px;
+}
+
+.nav-item {
+    padding: 5px;
+}
+
+.sign-in {
+    width: 104px;
+    height: 43px;
+    border: none;
+    background: #21B573;
+    border-radius: 33px;
+}
