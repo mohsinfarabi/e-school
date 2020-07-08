@@ -161,7 +161,6 @@
         height: auto;
     }
     
-    .testimonial-text {
-        padding: 50px;
-        text-align: left;
+    .testimonial-content p {
+        padding: 30px;
     }

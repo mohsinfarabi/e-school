@@ -1,0 +1,47 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    margin-bottom: 100px;
+}
+
+.top-part {
+    background-color: #F0FFF0;
+}
+
+.bg-light {
+    background-color: #F0FFF0;
+}
+
+.navbar img {
+    width: 198.07px;
+    height: 59px;
+}
+
+.nav-item {
+    padding: 5px;
+    color: black;
+}
+
+.sign-in {
+    width: 104px;
+    height: 43px;
+    border: none;
+    background: #21B573;
+    border-radius: 33px;
+    color: white;
+}
+
+.top h5 {
+    color: #FD511A;
+}
+
+.top h1 {
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.row img {
+    padding: 5px;
+}
