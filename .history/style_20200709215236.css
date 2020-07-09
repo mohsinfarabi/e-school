@@ -204,31 +204,10 @@
     }
     /* footer Section */
     
-    .bottom-background {
-        background-color: #282531;
-    }
-    
     .bottom-part {
         margin-top: 100px;
+        background-color: #282531;
         color: white;
-    }
-    
-    .newsletter {
-        margin-top: 100px;
-    }
-    
-    .newsletter h3 {
-        font-size: xx-large;
-    }
-    
-    .submit {
-        border: none;
-        background: #21B573;
-        border-radius: 33px;
-        color: white;
-        margin-top: 10px;
-        margin-bottom: 20px;
-        padding: 8px 28px;
     }
     
     ul {
@@ -241,14 +220,15 @@
     
     li a:hover {
         text-decoration: none;
-        color: #21B573;
+        color: white;
     }
     
-    footer {
+    .footer {
         text-align: center;
         margin-top: 20px;
+        padding-bottom: 10px;
     }
     
     .footer-row {
-        padding-top: 50px;
+        padding: 50px 60px;
     }

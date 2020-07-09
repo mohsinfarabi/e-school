@@ -213,24 +213,6 @@
         color: white;
     }
     
-    .newsletter {
-        margin-top: 100px;
-    }
-    
-    .newsletter h3 {
-        font-size: xx-large;
-    }
-    
-    .submit {
-        border: none;
-        background: #21B573;
-        border-radius: 33px;
-        color: white;
-        margin-top: 10px;
-        margin-bottom: 20px;
-        padding: 8px 28px;
-    }
-    
     ul {
         list-style: none;
     }
@@ -245,6 +227,7 @@
     }
     
     footer {
+        position: absolute;
         text-align: center;
         margin-top: 20px;
     }

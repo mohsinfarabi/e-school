@@ -214,11 +214,7 @@
     }
     
     .newsletter {
-        margin-top: 100px;
-    }
-    
-    .newsletter h3 {
-        font-size: xx-large;
+        margin-top: 50px;
     }
     
     .submit {
@@ -226,7 +222,6 @@
         background: #21B573;
         border-radius: 33px;
         color: white;
-        margin-top: 10px;
         margin-bottom: 20px;
         padding: 8px 28px;
     }

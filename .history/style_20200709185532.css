@@ -5,17 +5,6 @@
     .container {
         margin-bottom: 50px;
     }
-    /* Common Button Properties */
-    
-    .btn:focus {
-        border: none;
-        background: #21B573;
-    }
-    
-    .btn:hover {
-        border: none;
-        background: #21B573;
-    }
     
     .top-part {
         background-color: #F0FFF0;
@@ -31,6 +20,16 @@
         color: black;
     }
     
+    .btn:focus {
+        border: none;
+        background: #21B573;
+    }
+    
+    .btn:hover {
+        border: none;
+        background: #21B573;
+    }
+    
     .sign-in {
         padding: 12px 28px;
         border: none;
@@ -38,7 +37,6 @@
         border-radius: 33px;
         color: white;
     }
-    /* Banner Section */
     
     .content-position {
         margin-top: 50px;
@@ -73,7 +71,6 @@
         border-radius: 33px;
         color: white;
     }
-    /* Second Section */
     
     .cat1,
     .cat2,
@@ -83,27 +80,16 @@
         border-radius: 10px;
         border: none;
         margin-bottom: 20px;
+    }
+    
+    .cat2 {
+        box-shadow: 5px 5px 10px lightgray;
+    }
+    
+    .cat1,
+    .cat3,
+    .cat4 {
         background-color: #F8FFFB;
-    }
-    
-    .cat1:hover {
-        box-shadow: 5px 5px 10px lightgray;
-        background-color: white;
-    }
-    
-    .cat2:hover {
-        box-shadow: 5px 5px 10px lightgray;
-        background-color: white;
-    }
-    
-    .cat3:hover {
-        box-shadow: 5px 5px 10px lightgray;
-        background-color: white;
-    }
-    
-    .cat4:hover {
-        box-shadow: 5px 5px 10px lightgray;
-        background-color: white;
     }
     
     .cat1 img {
@@ -133,7 +119,6 @@
     .cat h4 {
         font-weight: 700;
     }
-    /* Courses Card Section */
     
     .course h1 {
         text-align: center;
@@ -177,78 +162,16 @@
         padding: 0;
         margin-right: 5px;
     }
-    /* Testimonial Section */
     
     .testimonial {
         text-align: center;
-        margin-top: 100px;
-    }
-    
-    .testimonial h1 {
-        font-weight: 700;
     }
     
     .testimonial-content img {
-        height: 120px;
-        width: 120px;
-    }
-    
-    .testimonial-content {
-        padding-top: 50px;
+        height: auto;
     }
     
     .testimonial-text {
-        padding-left: 20px;
-        padding-top: 20px;
+        padding: 50px;
         text-align: left;
-    }
-    /* footer Section */
-    
-    .bottom-background {
-        background-color: #282531;
-    }
-    
-    .bottom-part {
-        margin-top: 100px;
-        color: white;
-    }
-    
-    .newsletter {
-        margin-top: 100px;
-    }
-    
-    .newsletter h3 {
-        font-size: xx-large;
-    }
-    
-    .submit {
-        border: none;
-        background: #21B573;
-        border-radius: 33px;
-        color: white;
-        margin-top: 10px;
-        margin-bottom: 20px;
-        padding: 8px 28px;
-    }
-    
-    ul {
-        list-style: none;
-    }
-    
-    li a {
-        color: white;
-    }
-    
-    li a:hover {
-        text-decoration: none;
-        color: #21B573;
-    }
-    
-    footer {
-        text-align: center;
-        margin-top: 20px;
-    }
-    
-    .footer-row {
-        padding-top: 50px;
     }
